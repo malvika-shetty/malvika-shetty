@@ -1,5 +1,7 @@
 ### Summary
 Result-driven graduate student with a strong passion for analyzing large amounts of data. Experience working with a variety of data environments, showcasing strong statistical and analytical capabilities. Broadly skilled in **Data Science, Machine Learning, Data Mining, Data Modeling, and Visualization**. Seeking **full-time opportunities** in the field of **Data Science and Analytics**.
+
+Have a look at my resume here: [https://github.com/malvika-shetty/malvika-shetty/blob/main/Malvika_Resume.pdf](https://github.com/malvika-shetty/malvika-shetty/blob/main/Malvika_Resume.pdf)
 <p>&nbsp;</p>
 
 ### I’m currently working on:
